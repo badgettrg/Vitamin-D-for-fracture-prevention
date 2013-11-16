@@ -1,4 +1,4 @@
-Vitamin-D-for-fracture-prevention
+Vitamin D for fracture prevention
 =================================
 
 This repository contains the source data and matching forest plots for a meta-analysis of Vitamin D supplementation for the prevention of fractures.
