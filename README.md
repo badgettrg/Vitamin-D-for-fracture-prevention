@@ -7,6 +7,6 @@ This meta-analysis suggests that vitamin D supplementation is associated with a 
 
 **Figure**. All trials subgrouped by effective or inneffective dose of Vitamin D. Effective is defined as a dose that raises the serum level of vitamin D by 20 nmol/L (8 ng/mL) and achieves a final level of at least 60 nmol/L (24 ng/mL).
 
-![alt text](https://raw.github.com/badgettrg/Vitamin-D-for-fracture-prevention/master/forest%20plots/all%20trials%20subgrouped%20by%20effective%20dose.png "Principle results")
+![alt text](https://raw.github.com/badgettrg/Vitamin-D-for-fracture-prevention/master/forest%20plots/all%20trials%20subgrouped%20by%20effective%20dose%20of%20vitamin%20D.png "Principle results")
 
 
